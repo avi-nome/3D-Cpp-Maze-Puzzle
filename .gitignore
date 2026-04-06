@@ -1,0 +1,6 @@
+# Ignore the compiled program
+main.exe
+main
+
+# Ignore the SDL3 library files (people should download their own)
+SDL3.dll
